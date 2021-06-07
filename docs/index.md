@@ -1,5 +1,5 @@
 # Gover
-Securing your SAP
+Securing your SAP systems.
 
 # Key features
 The following are the key features of Gover:

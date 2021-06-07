@@ -1,14 +1,10 @@
 # Overview
 
-Report enables monitoring of SAP Fiori application usage in your SAP landscape.
+Gover is a Fiori Tracker component that enables security checks for your SAP system landscape.
 
-Each time the user starts the application in SAP Fiori launchpad Fiori Apps' Usage plugin collects start records with time stamps. Based on the records, the tool provides report on most frequently used apps:
+[![](res/gv.png)](res/gv.png)
 
-[![](res/fa.png)](res/fa.png)
-
-You can chose the system for which you would like to see the ranking, filter out the records from a specific functional area or specific application type.
-
-With System filter you can list app usage for a specific system.
+You can chose the system for which you would like to see the checks.
 
 ## [Installation](inst.md)
 
@@ -16,6 +12,6 @@ With System filter you can list app usage for a specific system.
 Located on Central system
 
 ## Available extensions
-[Gover Core](extend-w-core.md)
+[Fiori Tracker Core](extend-w-core.md)
 
 ## [Configuration](conf.md)
