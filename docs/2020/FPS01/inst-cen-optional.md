@@ -4,7 +4,7 @@ Fiori Apps' Usage report comes with a function that [extends](how-fa-extends-cor
 
 If you want to use this function you need to perform the following installations steps:
 
-1. [Install Fiori Tracker Core]( {{ prod.fa.R2020FPS01.compatibleCoreLink }} )
+1. [Install Fiori Tracker Core]( {{ prod.gv.R2020FPS01.compatibleCoreLink }} )
 2. [Enable "FT Apps Relation: Apps' Usage"](rel.md)
 
 

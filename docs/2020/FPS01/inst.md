@@ -21,4 +21,4 @@ If you are installing Fiori Apps' Usage for the first time, please check [Evalua
     
 | Main product              | Main prod. release | Uses product | Compatible release  |
 | ------------------------- | ------- | ------------- | ------------------- |
-| Fiori Apps' Usage Report  | FPS01   | Core         | {{ prod.fa.R2020FPS01.compatibleCoreRel }}               |
+| Fiori Apps' Usage Report  | FPS01   | Core         | {{ prod.gv.R2020FPS01.compatibleCoreRel }}               |
