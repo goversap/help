@@ -70,7 +70,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#macro-rendering-error" class="md-skip">
+        <a href="#installation" class="md-skip">
           Skip to content
         </a>
       
@@ -200,9 +200,52 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Installation
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
     <a href="./" class="md-nav__link md-nav__link--active">
       Installation
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#general-basis-expert-steps" class="md-nav__link">
+    General Basis expert steps
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evaluation-deployment" class="md-nav__link">
+    Evaluation deployment
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#products-compatibility" class="md-nav__link">
+    Products compatibility
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -238,6 +281,35 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#general-basis-expert-steps" class="md-nav__link">
+    General Basis expert steps
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evaluation-deployment" class="md-nav__link">
+    Evaluation deployment
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#products-compatibility" class="md-nav__link">
+    Products compatibility
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -249,23 +321,42 @@
               
                 
                 
-                <h1 id="macro-rendering-error"><em>Macro Rendering Error</em></h1>
-<p><strong>UndefinedError</strong>: 'dict object' has no attribute 'fa'</p>
-<pre><code>Traceback (most recent call last):
-  File &quot;c:\users\gm\appdata\local\programs\python\python39\lib\site-packages\mkdocs_macros\plugin.py&quot;, line 341, in render
-    return md_template.render(**page_variables)
-  File &quot;c:\users\gm\appdata\local\programs\python\python39\lib\site-packages\jinja2\environment.py&quot;, line 1090, in render
-    self.environment.handle_exception()
-  File &quot;c:\users\gm\appdata\local\programs\python\python39\lib\site-packages\jinja2\environment.py&quot;, line 832, in handle_exception
-    reraise(*rewrite_traceback_stack(source=source))
-  File &quot;c:\users\gm\appdata\local\programs\python\python39\lib\site-packages\jinja2\_compat.py&quot;, line 28, in reraise
-    raise value.with_traceback(tb)
-  File &quot;&lt;template&gt;&quot;, line 24, in top-level template code
-  File &quot;c:\users\gm\appdata\local\programs\python\python39\lib\site-packages\jinja2\environment.py&quot;, line 471, in getattr
-    return getattr(obj, attribute)
-jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'fa'
-
-</code></pre>
+                <h1 id="installation">Installation</h1>
+<h2 id="general-basis-expert-steps">General Basis expert steps</h2>
+<p>You need to install two parts: for a central system, and for the managed system.</p>
+<ol>
+<li><a href="../inst-cen/">Install Fiori Apps' Usage Report on Central system</a></li>
+<li><a href="../inst-man/">Install Fiori Apps' Usage Plugin on Managed system</a></li>
+</ol>
+<h2 id="evaluation-deployment">Evaluation deployment</h2>
+<p>If you are installing Fiori Apps' Usage for the first time, please check <a href="../eval-dep/">Evaluation deployment</a> for details on installing it to one system (f.e. Sandbox).</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>We designed each Fiori Apps' Usage Report product to work independently. Once you install the product and any dependent products are needed, it will guide the user to install those.</p>
+</div>
+<h2 id="products-compatibility">Products compatibility</h2>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Release 2020 FPS01 is not downward compatible with previous releases. It should <strong>not</strong> be installed on top of older releases. If you have used previous releases and would like to move to release 2020 FPS01 then you need to move your data manually. If you need help with moving you data please contact our project manager for an offer (gm@nypesap.com)</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Main product</th>
+<th>Main prod. release</th>
+<th>Uses product</th>
+<th>Compatible release</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fiori Apps' Usage Report</td>
+<td>FPS01</td>
+<td>Core</td>
+<td>SPS03</td>
+</tr>
+</tbody>
+</table>
                 
               
               
