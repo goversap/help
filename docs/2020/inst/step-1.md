@@ -12,5 +12,5 @@ Unizp the cofile and data files, and place them in the respective folder on your
 Using transaction **STMS** import the transport to your system.
 
 !!! Note
-    The above steps should be performed in **Central system** or **Managed system**. The choice is dependent on which part of the Fiori Tracker family you are installing. Please refer to the **Location** section on the product's main page to choose the correct system role.
+    The above steps should be performed in **Central system** or **Managed system**. The choice is dependent on which part of the Gover family you are installing. Please refer to the **Location** section on the product's main page to choose the correct system role.
 

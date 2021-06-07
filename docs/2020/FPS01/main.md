@@ -16,6 +16,6 @@ With System filter you can list app usage for a specific system.
 Located on Central system
 
 ## Available extensions
-[Fiori Tracker Core](extend-w-core.md)
+[Gover Core](extend-w-core.md)
 
 ## [Configuration](conf.md)
