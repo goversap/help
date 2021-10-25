@@ -2,6 +2,9 @@ site_name: Gover
 site_url: https://help.gvr.cm
 nav:
     - Overview: 2020/FPS01/main.md
+    - Security checks:
+      - Password status: 2020/FPS01/gv0001.md
+      - Security parameters: 2020/FPS01/gv0004.md
     - Installation: 2020/FPS01/inst.md
     - FAQ: 2020/faq.md
 theme: 
