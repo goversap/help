@@ -1,6 +1,6 @@
 # Overview
 
-Gover is a Fiori Tracker component that enables security checks for your SAP system landscape.
+Gover is a Fiori Tracker component that enables [security checks](sec-checks.md) for your SAP system landscape.
 
 [![](res/gv.png)](res/gv.png)
 
