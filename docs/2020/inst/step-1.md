@@ -2,7 +2,7 @@
 
 ### 1. Obtain the transport files
 
-Release from 2020 FPS01 is free for all customers accepted in an initial release. Accepted customers will receive help with installation and support/upgrades for 12 months.
+Release from 2020 FPS01 is free for all customers accepted in the Release candidate stage. Accepted customers will receive help with installation and support/upgrades for 12 months.
 Contact Nype's representative to obtain details, activation key, and the zip file for `Release`.
 
 ### 2. Unzip and place files in your transport folder
