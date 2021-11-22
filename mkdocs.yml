@@ -5,6 +5,7 @@ nav:
     - Security checks:
       - Password status: 2020/FPS01/gv0001.md
       - Security parameters: 2020/FPS01/gv0004.md
+      - Security patches:  2020/FPS01/gv0010.md
     - Installation: 2020/FPS01/inst.md
     - FAQ: 2020/faq.md
 theme: 

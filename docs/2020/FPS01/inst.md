@@ -3,7 +3,7 @@
 ## Generals steps for Basis expert:
 
 1. [Obtain and import the transport files for release `2020FPS01`](../inst/step-1.md)
-2. [Activate Frontend ICF nodes](../inst/step-2.md) for node `ZGVSR`
+2. [Activate Frontend ICF node](../inst/step-2.md) `ZGVSR`
 3. [Assign pfcg roles](../inst/step-4.md) for role `ZNYPE_GV`
 4. [Enter the activation key](../inst/step-5.md)
 ## "As-is" API installation steps for Basis expert

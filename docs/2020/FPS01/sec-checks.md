@@ -7,3 +7,4 @@ The Gover comes with a set of security checks. The Gover development team develo
 |---------------|-------------------------------------|
 | gv0001        | [Password status](gv0001.md)        |
 | gv0004        | [Security parameters](gv0004.md)    |
+| gv0010        | [Security patches](gv0010.md)    |
