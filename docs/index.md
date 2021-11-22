@@ -1,5 +1,5 @@
 # Gover
-Prevent SAP systems security threads with automated checks.
+Prevent SAP systems security threats with automated checks.
 
 # Key features
 The following are the key features of Gover:
