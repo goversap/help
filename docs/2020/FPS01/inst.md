@@ -9,9 +9,8 @@
 ## "As-is" API installation steps for Basis expert
 
 1. [Install As-is Main API on Central system](https://help.fioritracker.org/V2020/asis/SPS02/inst-cen/) *
-2. [Install As-is Connector on each Managed system](https://help.fioritracker.org/V2020/asis/SPS02/inst-man/) *
-3. [Enable As-is relation: "Security checks" as in scope for each system](../inst/step-6.md)
-4. [Complete the first time data synchronization from managed systems](../inst/step-7.md)
+2. [Enable As-is relation: "Security checks" as in scope for each system](../inst/step-6.md)
+3. [Complete the first time data synchronization from managed systems](../inst/step-7.md)
 
 ## Products compatibility
     
