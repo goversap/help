@@ -11,4 +11,4 @@ You need to install two parts: for a central system, and for the managed system.
     
 | Main product | Main prod. release | Uses product | Compatible release  |
 | -------------| ------- | ------------- | ------------------- |
-| Gover        | FPS01   | Fiori Tracker Core         | {{ prod.gv.R2020FPS01.compatibleCoreRel }}               |
+| Gover        | FPS01   | ["As-is" Main API]({{ prod.gv.R2020FPS01.compatibleAsIsMainLink }})        | {{ prod.gv.R2020FPS01.compatibleAsIsMainRel }}               |

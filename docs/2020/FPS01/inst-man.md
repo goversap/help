@@ -1,4 +1,4 @@
-# Installation of Gover located on Managed system
+# Installation of Gover components located on Managed system
 
 Steps for Basis expert:
 

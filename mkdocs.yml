@@ -38,5 +38,7 @@ extra:
       R2020FPS01:
         compatibleCoreRel: SPS03      
         compatibleCoreLink: 'https://help.fioritracker.org/V2020/core/SPS03/main/'
-        
+        compatibleAsIsMainRel: SPS02
+        compatibleAsIsMainLink: 'https://help.fioritracker.org/V2020/asis/SPS02/main/'
+
   
