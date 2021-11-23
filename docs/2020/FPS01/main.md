@@ -11,7 +11,4 @@ You can choose the system for which you would like to see the checks.
 ## Location
 Located on Central system
 
-## Available extensions
-[Fiori Tracker Core](extend-w-core.md)
-
 ## [Configuration](conf.md)
