@@ -10,12 +10,8 @@ Yes. Gover release numbering is independent of SAP release numbering. Gover rele
 
 ## 3. What details do you need for troubleshooting the issues?
 
-Please send the screenshots form the application running in Chrome with URL and "Developer tools" console.
+Please attach the screenshots from the application running in Chrome with URL and "Developer tools" console.
 
-Screenshot from respective SAP Gateway system from SAP Gui menu: System->Status SAP System Data -> Details.
-
-## 4. Is there any way that I can pull the historical data?
-
-Unfortunately, the data is only collected when the Fiori Apps' Usage Plugin is active for the user, so there is no way to pull the historical data. 
+Screenshot from respective SAP Gateway system with version detais. The version detail are aviailable from SAP Gui menu: *System->Status SAP System Data -> Details*.
 
 

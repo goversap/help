@@ -8,7 +8,4 @@ You can choose the system for which you would like to see the checks.
 
 ## [Installation](inst.md)
 
-## Location
-Located on Central system
-
 ## [Configuration](conf.md)
