@@ -1,13 +1,13 @@
-# Minimal installation requirements for all Fiori Apps' Usage
+# Minimal installation requirements for Gover
 
 !!! Note
-    The minimal requirement for Fiori Apps' Usage is any SAP system with GAP Gateway (software component SAP_GWFND).
+    The minimal requirement for Gover is any SAP system with GAP Gateway (software component SAP_GWFND).
 
-Fiori Apps' Usage frontend part requires SAP Gateway with SAP UI5 library at least version: 1.48.9 (UI software component in version: SAP_UI 752 SP00 (or above Support Package). For systems that do not offer UI5 library in recommended version Fiori Apps' Usage can be still run from [Technical launchpad](../ui5lib-options.md).
+Gover frontend part requires SAP Gateway with SAP UI5 library at least version: 1.48.9 (UI software component in version: SAP_UI 752 SP00 (or above Support Package). For systems that do not offer UI5 in the recommended version, Gover can still run from [Technical launchpad](../ui5lib-options.md).
 
-Fiori Apps' Usage Suite will work in both HUB and Embedded deployment.
+Gover works in both HUB and Embedded deployments.
 
-Here is the list of compatible SAP releases Fiori Apps' Usage Suite is compatible with:
+Here is the list of compatible SAP releases Gover is compatible with:
 
 |1610|1709|1809|1909|2020|
 |--|--|--|--|--|
