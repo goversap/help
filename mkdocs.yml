@@ -21,10 +21,10 @@ extra_css:
 markdown_extensions:
   - admonition
   - attr_list
-google_analytics:
-  - G-JMR43D5DHL
-  - auto
 extra:
+  analytics:
+    provider: google
+    property: G-JMR43D5DHL
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/showcase/apps-usage-for-sap-fiori-launchpad
