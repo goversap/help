@@ -10,7 +10,7 @@ The following are the key features of Gover:
 
 
 
-[Get included in the release candidate stage and use Gover for free](mailto:greg.malewski@nypesap.com?subject=Gover: Request to include in release candidate stage){ .md-button .md-button--primary }
+[Get included in the release candidate stage and use Gover for free](mailto:grzegorz.malewski@nype.pl?subject=Gover: Request to include in release candidate stage){ .md-button .md-button--primary }
 
 # Benefits
 The following are the key benefits:
