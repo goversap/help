@@ -335,22 +335,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#generals-steps-for-basis-expert" class="md-nav__link">
-    Generals steps for Basis expert:
+  <a href="#gover-components-for-central-system" class="md-nav__link">
+    Gover components for Central system
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#as-is-api-installation-steps-for-basis-expert" class="md-nav__link">
-    "As-is" API installation steps for Basis expert
+  <a href="#gover-components-for-managed-system" class="md-nav__link">
+    Gover components for Managed system
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#products-compatibility" class="md-nav__link">
-    Products compatibility
+  <a href="#as-is-api" class="md-nav__link">
+    "As-is" API
   </a>
   
 </li>
@@ -405,22 +405,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#generals-steps-for-basis-expert" class="md-nav__link">
-    Generals steps for Basis expert:
+  <a href="#gover-components-for-central-system" class="md-nav__link">
+    Gover components for Central system
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#as-is-api-installation-steps-for-basis-expert" class="md-nav__link">
-    "As-is" API installation steps for Basis expert
+  <a href="#gover-components-for-managed-system" class="md-nav__link">
+    Gover components for Managed system
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#products-compatibility" class="md-nav__link">
-    Products compatibility
+  <a href="#as-is-api" class="md-nav__link">
+    "As-is" API
   </a>
   
 </li>
@@ -439,39 +439,25 @@
                 
 
 <h1 id="installation">Installation</h1>
-<h2 id="generals-steps-for-basis-expert">Generals steps for Basis expert:</h2>
+<h2 id="gover-components-for-central-system">Gover components for Central system</h2>
 <ol>
-<li><a href="../../inst/step-1/">Obtain and import the transport files for release <code>2020FPS01</code></a></li>
-<li><a href="../../inst/step-2/">Activate Frontend ICF node</a> <code>ZGVSR</code></li>
+<li><a href="../../inst/step-1/">Obtain and import the transport files for Central system</a></li>
+<li><a href="../../inst/step-2/">Activate Frontend ICF node</a> <code>ZGVSR</code> and <code>ZGVSP</code></li>
 <li><a href="../../inst/step-4/">Assign pfcg roles</a> for role <code>ZNYPE_GV</code></li>
-<li><a href="../../inst/step-5/">Enter the activation key</a></li>
+<li><a href="../../inst/step-3.md">Enable backend odata service</a> for service <code>ZGV0010_SRV</code></li>
 </ol>
-<h2 id="as-is-api-installation-steps-for-basis-expert">"As-is" API installation steps for Basis expert</h2>
+<h2 id="gover-components-for-managed-system">Gover components for Managed system</h2>
 <ol>
-<li><a href="https://help.fioritracker.org/V2020/asis/SPS02/inst/">Install As-is Main API on Central system</a> *</li>
+<li><a href="../../inst/step-1/">Obtain and import the transport files for Managed system</a></li>
+<li>Run report ZGV0001ADMIN to register Passwords Check</li>
+<li>Run report ZGV0004ADMIN to register Parameters Check</li>
+</ol>
+<h2 id="as-is-api">"As-is" API</h2>
+<ol>
+<li><a href="https://help.fioritracker.org/V2020/asis/SPS02/inst/">Install As-is Main API on Central system</a> </li>
 <li><a href="../../inst/step-6/">Enable As-is relation: "Security checks" as in scope for each system</a></li>
 <li><a href="../../inst/step-7/">Complete the first time data synchronization from managed systems</a></li>
 </ol>
-<h2 id="products-compatibility">Products compatibility</h2>
-<table>
-<thead>
-<tr>
-<th>Main product</th>
-<th>Main prod. release</th>
-<th>Uses product</th>
-<th>Compatible release</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Gover</td>
-<td>FPS01</td>
-<td><a href="https://help.fioritracker.org/V2020/asis/SPS02/main/">"As-is" Main API</a></td>
-<td>SPS02</td>
-</tr>
-</tbody>
-</table>
-<p>* <em>Link for another website</em></p>
 
               
             </article>
